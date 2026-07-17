@@ -1,0 +1,12 @@
+{
+  "billing_inquiry": "I can see this is about a billing question. I've pulled up general billing guidance below, and if it doesn't fully resolve things, I'll route this to a billing specialist.",
+  "technical_support": "Sorry you're running into a technical issue. Here's some troubleshooting guidance that resolves this for most customers. If it persists, I'll escalate to our technical team with your ticket details.",
+  "account_management": "I can help with account changes. Here's how most customers handle this. Some changes may require identity verification for security reasons.",
+  "order_status": "Let me help you with your order. Here's what I found in our order-status guidance. If your tracking info looks off, I'll escalate this to fulfillment.",
+  "product_information": "Great question about our product. Here's an overview that should help you decide.",
+  "complaint": "I'm sorry to hear about this experience — that's not the standard we hold ourselves to, and I want to make sure it gets fixed. I'm escalating this to a human agent right away so it gets the attention it deserves.",
+  "greeting": "Hi there! I'm your AI support assistant. How can I help you today?",
+  "gratitude": "You're very welcome! Let me know if there's anything else I can help with.",
+  "cancellation_request": "I can help start the cancellation process. Here's what to expect, and I'll flag this to our retention/support team to confirm and process it.",
+  "unknown": "Thanks for reaching out. I wasn't able to confidently determine the right category for this request, so I'm connecting you with a human agent who can take a closer look."
+}

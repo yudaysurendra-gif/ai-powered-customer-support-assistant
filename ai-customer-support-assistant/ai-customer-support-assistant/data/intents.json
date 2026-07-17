@@ -1,0 +1,110 @@
+{
+  "billing_inquiry": [
+    "why was I charged twice this month",
+    "I don't understand this charge on my invoice",
+    "can you explain my bill",
+    "I want a refund for my last payment",
+    "my subscription was billed incorrectly",
+    "there is an unauthorized charge on my card",
+    "how do I update my billing information",
+    "I need a copy of my invoice",
+    "can I get a refund for this order",
+    "why did the price change on my plan"
+  ],
+  "technical_support": [
+    "the app keeps crashing when I open it",
+    "I can't log into my account",
+    "the website is showing an error page",
+    "my password reset link is not working",
+    "the page won't load no matter what I try",
+    "I'm getting a 500 error on checkout",
+    "the app is stuck on the loading screen",
+    "features are missing after the last update",
+    "I can't upload files to my account",
+    "the sync between devices is broken"
+  ],
+  "account_management": [
+    "how do I change my email address",
+    "I want to delete my account",
+    "how can I update my profile information",
+    "I need to change my password",
+    "how do I add a new team member",
+    "can I merge two accounts together",
+    "how do I change my username",
+    "I need to update my shipping address",
+    "how do I enable two factor authentication",
+    "I want to deactivate my account temporarily"
+  ],
+  "order_status": [
+    "where is my order",
+    "when will my package arrive",
+    "can you track my shipment",
+    "my order has not shipped yet",
+    "I want to cancel my order",
+    "the tracking number is not working",
+    "how long does delivery usually take",
+    "can I change my delivery address after ordering",
+    "my order shows delivered but I never got it",
+    "I need to expedite my shipping"
+  ],
+  "product_information": [
+    "what features does the premium plan include",
+    "do you offer a free trial",
+    "what is the difference between the basic and pro plan",
+    "is there a discount for annual billing",
+    "does this product work on mobile devices",
+    "what integrations do you support",
+    "can I use this for a small business",
+    "is there a student discount available",
+    "what languages does the product support",
+    "how many users can I add to my plan"
+  ],
+  "complaint": [
+    "this is the worst service I have ever used",
+    "I am extremely frustrated with the support I received",
+    "nobody has responded to my emails for a week",
+    "your product completely ruined my workflow",
+    "I have been waiting on hold for over an hour",
+    "this is unacceptable and I want a manager",
+    "I am so disappointed with how this was handled",
+    "your team keeps giving me the runaround",
+    "I've had nothing but problems since I signed up",
+    "this is a complete waste of my time and money"
+  ],
+  "greeting": [
+    "hello",
+    "hi there",
+    "good morning",
+    "hey I need some help",
+    "hi can someone assist me",
+    "good afternoon",
+    "hello is anyone available",
+    "hey there",
+    "hi I have a question",
+    "good evening"
+  ],
+  "gratitude": [
+    "thank you so much for your help",
+    "thanks that solved my issue",
+    "appreciate the quick response",
+    "thank you that worked perfectly",
+    "thanks a lot for the assistance",
+    "great, thanks for clarifying",
+    "awesome thank you",
+    "perfect, thanks for the help",
+    "thanks for resolving this so fast",
+    "much appreciated"
+  ],
+  "cancellation_request": [
+    "I want to cancel my subscription",
+    "please cancel my membership",
+    "how do I stop my recurring payment",
+    "I no longer want this service, cancel it",
+    "cancel my plan immediately",
+    "I want to unsubscribe from this service",
+    "please terminate my account and stop billing me",
+    "how do I opt out of auto-renewal",
+    "I would like to end my contract",
+    "cancel my order before it ships"
+  ]
+}

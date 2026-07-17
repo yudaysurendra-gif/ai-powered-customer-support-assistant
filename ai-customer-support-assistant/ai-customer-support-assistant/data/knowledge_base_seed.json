@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Understanding Your Invoice and Billing Cycle",
+    "category": "billing_inquiry",
+    "keywords": "billing, invoice, charge, payment, refund",
+    "content": "Your invoice is generated at the start of each billing cycle and reflects your active plan plus any usage-based add-ons. Duplicate charges are most often caused by a retried payment after a temporarily failed transaction; these are automatically reversed within 3-5 business days. To request a refund, go to Account > Billing > Payment History and select 'Request Refund' on the relevant transaction."
+  },
+  {
+    "title": "Resetting Your Password",
+    "category": "account_management",
+    "keywords": "password, reset, login, account",
+    "content": "To reset your password, click 'Forgot Password' on the login screen and follow the emailed link, which is valid for 30 minutes. If the link has expired or isn't arriving, check your spam folder and ensure the email on file is correct in Account Settings."
+  },
+  {
+    "title": "Troubleshooting App Crashes",
+    "category": "technical_support",
+    "keywords": "crash, error, bug, app, loading",
+    "content": "App crashes are most commonly resolved by clearing the app cache and updating to the latest version. On mobile, go to Settings > Apps > [App Name] > Storage > Clear Cache. On web, try a hard refresh (Ctrl+Shift+R) or clearing browser cache. If crashes persist after updating, please share your device model and OS version with support."
+  },
+  {
+    "title": "Tracking Your Order",
+    "category": "order_status",
+    "keywords": "order, shipping, tracking, delivery",
+    "content": "Once your order ships, you'll receive a tracking number by email. Standard delivery typically takes 3-7 business days. If tracking shows no movement for more than 48 hours, or shows 'delivered' but the package hasn't arrived, contact support with your order number for immediate investigation."
+  },
+  {
+    "title": "Comparing Plan Tiers",
+    "category": "product_information",
+    "keywords": "plan, pricing, features, upgrade, trial",
+    "content": "The Basic plan includes core features for individuals. The Pro plan adds team collaboration, priority support, and advanced analytics. Enterprise adds SSO, dedicated support, and custom contracts. All plans include a 14-day free trial with no credit card required."
+  },
+  {
+    "title": "Cancelling or Pausing Your Subscription",
+    "category": "cancellation_request",
+    "keywords": "cancel, unsubscribe, pause, subscription, auto-renewal",
+    "content": "You can cancel anytime from Account > Subscription > Manage Plan > Cancel Subscription. Cancelling stops future billing but keeps your access until the end of the current paid period. If you'd rather pause than fully cancel, select 'Pause Subscription' for up to 3 months."
+  },
+  {
+    "title": "Enabling Two-Factor Authentication",
+    "category": "account_management",
+    "keywords": "2fa, security, two factor, authentication",
+    "content": "Enable two-factor authentication under Account > Security > Two-Factor Authentication. We support authenticator apps (recommended) and SMS codes. Keep your backup codes somewhere safe in case you lose access to your primary device."
+  }
+]
